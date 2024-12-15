@@ -1,0 +1,138 @@
+{
+	"new": [
+		{
+			"id": 1,
+			"author": "Ульяна Соболева",
+			"writer": "Автор 1",
+			"title": "Завтра будет вчера",
+			"img": "https://s3-alpha-sig.figma.com/img/e0b5/4279/8bf2ed1f2f6ab48181bd014ca3310906?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pDtKma~mQru2FCeAacpwliJGnZtekegrosOFWDt7MzntdyT217NdTd580W8Lss~LXts9aXn2C23MbS8~iKJnBk5QRx1v9aVfgBXG2WkGDsaS4BFo-hMrlOq6L4AXqTGM03sMXgqH55ZGJtYkOytGTBAEdRR5C2wcwp~yiUru4-6YuQfiMSAxTqqAX3JlzZT57avKjLpum77kHmj8bfrpuGCxE~M7En8hOtGiqnqvudSROMpQMc-32lrzqzqz8oyI4Ei6KJ0hZTEsZrGMesY~Ht-jmS~gvZ7xAyb2AD4R-VNA5ThwxErIpOrNKJ0e2kuc9RJRfnZLKojJMPSUyBAr2A__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum.",
+			"isLike": false,
+			"isBuy": false,
+			"price_old": 1000,
+			"price_current": 950
+		},
+		{
+			"id": 2,
+			"author": "Линкольн Чайлд",
+			"writer": "Автор 2",
+			"title": "Низший. Книга шестая",
+			"img": "https://s3-alpha-sig.figma.com/img/af1c/c599/6b2c34cd1593e9be7e1f69cd83d3d8f2?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=f9AFsD~fNp-DsD2~wSggpiFLeAeXbON~qaujXTDahuItpwVYLzd7Ak1N7tw3W-f70ucaY6~lOuYt~0Lx6FQH0Xw4cnw0ClUVCIuoLPZB89dxWpC5IqN65Ce2BEvCXf55g7ZdLLLfVaipcVBTdfP3tcleuXC-Tc8hBAKQh6p~FGpe89bYk~vH5tFsQUp7ggEBkUFMaCeNg9Q5KpaNAfGt9CGzqeEv3paWUHoaG-m5PMyoWm3UWCpcncdfBEXFVoNGt6C9xJ33GVIluB5wKTlwQ3jM6gaiQ1vWH~CyKTXum~AvkAN5iOUsxnwySs3nbwKiJh2~~OQGtp0HgI1hnm8NVA__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum.",
+			"isLike": false,
+			"isBuy": false,
+			"price_old": 1200,
+			"price_current": 1100
+		},
+		{
+			"id": 3,
+			"author": "Аноним",
+			"writer": "Автор 3",
+			"title": "Жена башмачника",
+			"img": "https://s3-alpha-sig.figma.com/img/d653/ed3b/58e14c2b55e46bf42ff2f0306859e380?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LpzCnOuGOzDoFW9S2EqdONpEUV8MmL6p4wmUPVoPA5H-cakk-fLiQ-h3n67xB7i~2mKrFpDFWDySQ33cECP51RfulC0QLQGpFFA5dSrN6rUE7AYcGkxnC0HLwpYPSQvsnmPvbzi64jBPHA~-nC5OM6aTC42FMRX0n381wyCXbqRFJurTz-WicHCB7lhBTLf90GtHO5rSvLeLVW-RQQI80mDAlzVljk8MxOv38oTGJV7Gt46XaxELD6V3RUcsurCwkmcGaQ4PGrbxKCCxQIeIXdOFxkitc7y1W1McnGyRt~NAiOIKU-crhNaDZfSdN~I7GBrBDevecnX~X4X8uZ1YqA__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum.",
+			"isLike": false,
+			"isBuy": false,
+			"price_old": 1500,
+			"price_current": 1450
+		},
+		{
+			"id": 4,
+			"author": "Лира Алая",
+			"writer": "Автор 4",
+			"title": "Ночная смена. Крепость живых...",
+			"img": "https://s3-alpha-sig.figma.com/img/2371/0f62/f3a8c9bce5ee2cd6682194f47dc8d217?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kPjbQxxkoiGyz0-HqYaGo~PM1jqEDMcANaGWCQLkea~1iHX~w9P4RHMd1MBWtxZJLvB9d1t9g17QuLtWYPoGFmHcH-vLik8E2CzsSllrQfLKzZDh8hkNDcJQEfFfesfHLnEQ2srqk5DvO7tmghkHCSs9hgtTmwUc2EP27uVUG7N1XIMDDw9sxglvPbrhA9Ra6n~KfPJgRcCD~~dBdVrfU~PLzFP0lbKFmauXeFO4gt1BTgaHOb-xfPehQQckCBCkpJjLGttjN2f-JhJVPUDTu5s-vB6AvUVZCPFmWTp3mRpYr1V53erEEzV9EjjbzWHZ336sfv~nZCWJ7GQvGtl2bw__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum.",
+			"isLike": false,
+			"isBuy": false,
+			"price_old": 900,
+			"price_current": 850
+		},
+		{
+			"id": 5,
+			"author": "Маргарет Митчелл",
+			"writer": "Автор 5",
+			"title": "Агасфер. Старьевщик",
+			"img": "https://s3-alpha-sig.figma.com/img/0be9/88f9/58ca5b973d026bb0ed83e14c3a239a8c?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pb-MMjnq1GtjDNEKbTQFhOwgPSJtsrAER4emSiF6eu8d1~luryVltS3hweI4l-lf-xsB82PCNBGZ~lHJLZZaqMrp6j1zyZr2g9Kqif6aimzm18g8IlJfvt0-zbPku8KTmAx49ilULq~c0OpGzqocFIzsF2V3DGxJqExqqUh7aEpkJD6NbsxvTlZ0huPLMyKODVX~ve82Pm9XkbaaQpteCZjPvh9K-pX7tOXVfPRMDkoS3LqQwEAB8SJ4Zk59xBGJ1zaVHhReDofT82DGVVCu34MuFeSUhuy8mQ-EvOqk8LlOqKGNOc0VaAzzhUBl8UOgRBLkact6svM7U6vei8r-wg__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum.",
+			"isLike": false,
+			"isBuy": false,
+			"price_old": 1100,
+			"price_current": 1050
+		}
+	],
+	"popular": [
+		{
+			"id": 6,
+			"author": "Ульяна Соболева",
+			"title": "Унесенные ветром. Часть вторая",
+			"img": "https://s3-alpha-sig.figma.com/img/278a/a69e/5100348cb355cfc58135033599f155d4?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=i3cHmJOIDXES4hZDGyrs6JvBZA-r~5nDu3pCPuzfiCIpDTOg0zxI-7aXHyvQ~S3ZvIMXA58GuftAQdTuv-K9ZprsjMW1w~5IsTGDiilXGqQv6FGeIbQMsmT-dCmD~qpJbRvSMR8zuXDWTHxenk~22GQbN2fYq7iPm9SZ9CknIUjH7aMXFLbgGTmAem~neRV7jwzzPxYb9Xjg8yp2MI1J7Nster-Bqaz2cMEtBcRJNx4JLiE0LgdjS44fDYMa3L-jA0dUd9AoBikE-lPFuM1UwvqysUgHNJzFK-oRipb8co~aW8rjIANsXlUfZggQ24ueyNb835FAStBD9rTzP8T5zg__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 7,
+			"author": "Линкольн Де Милош...",
+			"title": "Алмазная колесница",
+			"img": "https://s3-alpha-sig.figma.com/img/3803/d816/e1cc42dc871eeca286f89a371025d9c0?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CjLwD8XTgCqG2F0vCGj-qit6Vt~It8qKDd~2P~GJo9K3x2bJW5yHx4MsUkIU9JMKjlh-mhHHEbpghKClauAChh7LkMlWjTaldKtUnvzjlTF-UqHiuSpftEel~OABVFS6wsKP4OHYa~ZqFK0bsczhJEcjGqx2BGlUm3yf75H0WqNFk2SgI641ULbgPRCDe9nFd2pCS1HIg0akCBaZEfuA-ZVxT4Vq-aohD8NuwSvgfBeLXh56H8xASvs8jqoHuKqlts8xS3m79mjs2sRp4577t5GtNVbix4gK8O5~BbBTKdx~7H1zqO3x4bKvV6QQQTF1jZLo3OgUGL~5urNtMtgu4g__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 8,
+			"author": "Джефф Линдсей/",
+			"title": "«Линкольн» для адвоката",
+			"img": "https://s3-alpha-sig.figma.com/img/69ce/03c6/2b2dd24a5d4f34a732cdef296032c761?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MOTSNSzZ0DF01Hsv5xFnWLCpb2F42BS73GWID-ILorU5GMZ5BXJSIYnvuae7zkVADcqgie6Jhkip2l8Cz6i9t28EqHamq3Z~CqX~00UphfUgdba7CGvMjan-Xie28bjTUo1NNvhCAgFtwLV8kSpMRLzzQhZq6r4nXEehK2gAqy5pBUrq3cOSD8QNQCMaOUiz8eIqTMKVcsNiyr4ikqs~ASto7ne5ag5nW0HpRu0NXkXv9Y2O1FdnXAIb649fHyf6NxXF7sLPAw1aSArcWqxkclf7D-4gsn156Mfl4suoxzFvACG6NUfkkhV0G3r8F5k-893ffEdc250vs~jjB-gKvQ__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 9,
+			"author": "Лира Алая",
+			"title": "Не твоя Людмила",
+			"img": "https://s3-alpha-sig.figma.com/img/424b/aac6/f4773244e057d90342d952279a712eda?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=TL7aQ8bU56q6z8qsJWYcggkrnEHl562kE~fpwMOvISK2NEjlqR9WR-MAcap6J2mncsnnPH-yCQnOSt2wYpVzafkjw9l8pzSS3b1Jsq5mcdsHlcZgVkuw3~eNSdV6qVopaA2m1avQR9Tf88BdUIjCHU9kON1BEKetfPujgL8YtRmMpgordZr-t4pHlNyrd1AaN9UONJ2XNds1RN4Mq1J8nPjGnO4qsJqx~iLiEoKDvoyppgMANnFkWygn2dbPFkqzPgQL5tKOXTOyupJjDvmIcQncmEpGfWHQ26XBKmIlz8UBT9vWNJ7jxHe2vey9bFPU3AazjoyXZVovCgUZVUVFpA__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 10,
+			"author": "Маргарет Митчелл",
+			"title": "Тьма императора. Книга вторая",
+			"img": "https://s3-alpha-sig.figma.com/img/976e/b607/8fe449f213d36279d6b728e0d19c9308?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HE7fIpDorrzQ8vMpneCxD4r30d2WrmkgjRc47oM6v47fEetL4s0UHHrJU2Y49ELrUCcwy7EauSXBt7GduSInRZwzgyfbhuxgvoXojsyz0br6~TDZ4o1LOqMWre6T3AOJPt95ds8CGzGlawEJAziOJ4up~ZTLQRuGkQgO~25yLtAM~ONxhgAeDAdODoq76BQewSkaPpYiVdGtwhmEsGpmoBic05b4ba~hE2oCRSkkgmdk2FufTIWyV6DQr4hklVzyEtoISmKWcBrHF0syu9r3qF0Fr2dCTCt8UXUoOJcuJf34xEbsWiY0eM0f2myA~8kpAhsAUVTv6TqH0VhBGleCzg__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		}
+	],
+	"category": [
+		{
+			"id": 11,
+			"author": "Ульяна Соболева",
+			"title": "Унесенные ветром. Часть вторая",
+			"img": "https://s3-alpha-sig.figma.com/img/8fc2/61d8/2fdb66100d46427e57c4e113c1332ead?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XsKrFlOd5-mIjndnHoG3XfXeyDeTXVXGoD1S-uNXcZ5fBDhkZviGwyzt3t7w0qg0Wz5rAiYklsdOt7fI2p~uIAMKgdYYELx88UebZot9yOEvGw0bUjdxCg~SmuEYzEVHg9u3rj2r0T9FcUuRq8AvtmdahEBZBh~heTArij9Rx60O9F~qMxZ70q61Eygm-uS-JaNaQTIwPX8o8FeG5d5nrn1VCJFsWa-k1aUJ1XO-~oqwzVGFYllbqkfneFSh0ORg8qC3kAKfgBmMNAi7TnYvNePODOiaGnPCLqCGMkNZ2dz2uBivIG4dg28MIndavB5amzz-ZFxSZH0u9U4Ol~~b~A__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 12,
+			"author": "Линкольн Чайлд, ",
+			"title": "Алмазная колесница",
+			"img": "https://s3-alpha-sig.figma.com/img/4369/7970/8d4e548f4f9631c95f66cdc81e1ddc5e?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OKMCskPmmwsP6mDm35QGemgUnqNFdDB0vDVLb5EBHAh0cE~C76f2oHpS9knU~G4iNRQT5i2~N7BrKo9CUW8sqBvotSE6N4egbo4q1E9N3wq2Er98n8Cm35OcJq-S-XGKiLGECvv5JpCtHovoqqHDKo~UfMstHI4hP5HTITUc3ZHTSYvZggFvsZRJQJAwqwP7YDW54bZ16ceY7TTRvgLD-8BaY2dhWtek7bLkXqJVsVV0n2S~p-HDdvL6Xs6L6ZekmkA~MTDrD-1pw0ZL5lnTq69VU1MsE36haFMo7AGcacYGYiGz~oeoUAAu5lBFIUA7cBdyf8Y4PQpNaalYLuygLg__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 13,
+			"author": "Джефф Линдсей",
+			"title": "«Линкольн» для адвоката",
+			"img": "https://s3-alpha-sig.figma.com/img/d060/21e0/60d78c1ac4d4be26fba4e722b37f5528?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LaEJJNG6fCBTVKRfqXxcGg6Agz9g6l6FWMq21O~matsCgoBuFSvy-YJ7CkpvDbJ7-yekv-K1IngJOuIXupBCm5-pLmEpp6ooyU5bGQVnXN9DNTQCLJMIg3TaWhx~zDNQYP73kqXoNhyqHdVMWau-y8cO3URs0NkIur5miwqdPFQcWufA~kXce7exY9oROYZaW64wmNue7TkvLFDJ8nmYjHw0D-6ocV3k-eZVBbu4Qox~ibQpOZDIBDAjsy1cqcJWeorBdBoJYL1mLwo2RbsjiaADj~x~OAwRsVQT~TOoYjghLO7POtwIFnvUJxOiNos4H5xMW4ptnB5xCJngRXqcjw__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 14,
+			"author": "Лира Алая",
+			"title": "Не твоя Людмила",
+			"img": "https://s3-alpha-sig.figma.com/img/2923/2623/1ee46f3d067264495f2d58e70b4769b3?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SKOIpjmEBTR6wkYceN2SGrssIwOL1oVlTh0eu1PQ0I5VJ94Poz87Srq8fIj~5cmMWu3DBOTp-tcNip3DXvG0uCtZgbgZkxMgfoWjHkNxVXom8lfCGM5xjwY3b2vQ1oVvC~s1IgmgZf40KW558z2qQJdqp1tvigGU~ir4EjkEDuLUDs~SlMKwPj0lMmL1v54kolUZnqGWBp~PQA5OcI7C6XYcGpS-YjloeQ4BxTOfFcZPr7o-jGW4b~w6JLFdGrV15HX32kwQXE90WGWQ3d9hhFQcJPHpJQ3VB5jvn9wOLSzbmC9nZHFQXPZdZzzvBcE1OgWu2VfbIkn-X9Bab0IJtQ__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		},
+		{
+			"id": 15,
+			"author": "Маргарет Митчелл",
+			"title": "Тьма императора. Книга вторая",
+			"img": "https://s3-alpha-sig.figma.com/img/f22c/342b/0fc6778ca15b1dd1dc8e4888e26246b5?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mBbHP7fCBM86ZQfqfAeOyNln71RAXymkuiyeYCmpma6hBkCG9fmv0-nFgqZmQ-ou6dE9tyJq3BeybFnUjLReIOhIso3jf9HKooaFFhWHFDDzxSJZXc-1RC4jU~230y4vSeKKJswoeysHTQkKV0h5LbL-8hm1MEeuChLE1WCH8J6JnP-MnMcggXZZVbVmTCyzQTejwT5UCloHMsppQ5WcbthR1pzKsSm07T9YlGXNTl1NaCqoGlhKD2TJGAg3i7bZdDMHkcfZpp85tw7qS19cgl4iQgZ90iYXXICftYlHmXIRSB4Gx6MODklMlxSsATD-cQL7LvUtl2FNg0hU5mGbwg__",
+			"desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut voluptatibus quod qui labore consectetur fugiat adipisci corporis? Vitae, dolores! Quisquam aspernatur natus dolor nemo in blanditiis, vero quis quasi dolorum."
+		}
+	]
+}
